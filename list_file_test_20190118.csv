@@ -1,0 +1,10 @@
+mass,mz,formula,adduct,peaklist
+255.00785,256.01512,C9H7Cl2N5,1,F:/academic/R proj/metfrag/peaklist/C9H7Cl2N5_pos.txt
+326.00082,327.00809,C9H18Cl3O4P,1,F:/academic/R proj/metfrag/peaklist/C9H18Cl3O4P_pos.txt
+398.24335,399.25062,C18H39O7P,1,F:/academic/R proj/metfrag/peaklist/C18H39O7P_pos.txt
+228.10448,229.11175,C9H16N4OS,1,F:/academic/R proj/metfrag/peaklist/C9H16N4OS_pos.txt
+381.07431,382.08158,C14H15N5O6S,1,F:/academic/R proj/metfrag/peaklist/C14H15N5O6S_pos.txt
+499.9375,498.93023,C8HF17O3S,-1,F:/academic/R proj/metfrag/peaklist/C8HF17O3S_neg.txt
+139.02695,138.01968,C6H5NO3,-1,F:/academic/R proj/metfrag/peaklist/C6H5NO3_neg.txt
+184.01202,183.00475,C6H4N2O5,-1,F:/academic/R proj/metfrag/peaklist/C6H4N2O5_neg.txt
+250.02998,249.02271,C12H10O4S,-1,F:/academic/R proj/metfrag/peaklist/C12H10O4S_neg.txt
