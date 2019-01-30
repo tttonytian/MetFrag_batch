@@ -18,7 +18,7 @@ config_file_3 <- MetFragConfig.formula("C9H7Cl2N5","[M+H]+",IsPosMode=TRUE, neut
 runMetFrag(config_file_1, metfrag_dir, MetFragCL_name)
 runMetFrag(config_file_3, metfrag_dir, MetFragCL_name)
 
-## Formula-based run worked better, as the mass accuracy issue
+## Formula-based run worked better, as the mass accuracy might not be ideal
 
 
 ## Loop function based on m/z. Please see the example list file for the columns
